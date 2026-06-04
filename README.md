@@ -35,7 +35,7 @@ Encontrarás:
 
 Toda la documentación del proyecto está organizada en estas dos guías principales:
 
-### 📘 [Guía 1: Cómo instalar Clawbot (OpenClaw) en el VPS más económico y potente de Interserver – Paso a Paso (ESP)](guias/instalacion_clawbot_interserver.md)
+### 📘 [Guía 1: Cómo instalar Clawbot (OpenClaw) en el VPS más económico y potente de Interserver – Paso a Paso (ESP)](Como_instalar_Clawbot_(OpenClaw)_en_el_VPS_mas_economico_y_potente_de_Interserver_net.md)
 -> Usa [mi link de referido para comprar tu VPS](https://www.interserver.net/r/1149900), de los más baratos. Y si me contactas con gusto te ayudo a configurarlo pero, en las guías está todo lo que necesitas y más,
 Esta guía cubre el proceso completo desde cero:
 
